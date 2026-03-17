@@ -8,7 +8,7 @@ Welcome to my personal collection of skills and tools for AI agents. This reposi
 - [Custom Skills](#-custom-skills)
 - [Installation](#-installation)
 
-\
+<br>
 ---
 
 ## 🌐 Third-Party Skills
@@ -17,7 +17,7 @@ Welcome to my personal collection of skills and tools for AI agents. This reposi
 
 * **[Google Workspace CLI](https://github.com/googleworkspace/cli):** Allows the agent to use Drive, Gmail, Calendar, and every Workspace API. 40+ agent skills included.
 
-\
+<br>
 ---
 
 ## 🛠️ Custom Skills
@@ -26,7 +26,7 @@ These are modules I have created specifically for my workflows.
 
 * **[TikTok Slideshow Creator](#):** A pipeline skill that allows the agent to generate complete slideshows. From generating the script idea, visual assets and text overlays.
 
-\
+<br>
 ---
 
 ## 🚀 Installation
