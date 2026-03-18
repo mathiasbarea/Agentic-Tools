@@ -7,14 +7,6 @@ Normally, if you ask an AI to perform a sequence of tasks (like searching your i
 **Why is it useful?**
 Lobster solves this by letting you chain these steps together into a predictable, automated pipeline. Most importantly, it features built-in **"approval gates"**. This means the agent can do all the heavy lifting in the background, pause the workflow to ask for your explicit permission before doing something critical (like sending an email or deleting a file), and then instantly resume exactly where it left off once approved.
 
-<br>  
-
-## 🗂️ Table of Contents
-
-- [Getting Started](#getting-started)
-- [Windows Compatibility Fixes](#windows-compatibility-fixes)
-- [OpenClaw Configuration](#openclaw-configuration)
-
 <br>
 
 
