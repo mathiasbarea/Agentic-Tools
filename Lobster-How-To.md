@@ -1,15 +1,19 @@
+## 🦞 What is Lobster?
 
-# How to Use Lobster
+In simple terms, Lobster is a tool that allows your AI agent to run complex, multi-step workflows as a single, unified action. 
 
-Welcome to this quick guide on how to install and set up Lobster. This document covers the general installation process, along with specific troubleshooting steps and configuration fixes required for Windows users.
+Normally, if you ask an AI to perform a sequence of tasks (like searching your inbox, categorizing emails, and drafting replies), it has to make multiple back-and-forth tool calls. This consumes more tokens, takes more time, and relies on the AI remembering and correctly executing every single step along the way. 
+
+**Why is it useful?**
+Lobster solves this by letting you chain these steps together into a predictable, automated pipeline. Most importantly, it features built-in **"approval gates"**. This means the agent can do all the heavy lifting in the background, pause the workflow to ask for your explicit permission before doing something critical (like sending an email or deleting a file), and then instantly resume exactly where it left off once approved.
 
 <br>  
 
 ## 🗂️ Table of Contents
 
-- [Getting Started](#-getting-started)
-- [Windows Compatibility Fixes](#-windows-compatibility-fixes)
-- [OpenClaw Configuration](#-openclaw-configuration)
+- [Getting Started](#getting-started)
+- [Windows Compatibility Fixes](#windows-compatibility-fixes)
+- [OpenClaw Configuration](#openclaw-configuration)
 
 <br>
 
