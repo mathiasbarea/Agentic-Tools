@@ -24,8 +24,9 @@ A curated collection of third-party modules and community tools I rely on. I cur
 
 ## 🛠️ Custom Skills
 
-These are modules I have created specifically for my workflows. 
+A collection of specialized modules I have created to extend agent capabilities across various automated workflows.
 
+* **[Lobster Workflows](https://github.com/mathiasbarea/lobster-workflows):** A skill for creating, running, scheduling, and observing managed Lobster workflows with shared libraries and centralized execution metrics.
 * **[TikTok Slideshow Creator](https://github.com/mathiasbarea/tiktok-slideshow-creator):** A pipeline skill that allows AI agents to generate complete slideshows, from brainstorming the script idea to creating visual assets and text overlays.
 
 <br>
