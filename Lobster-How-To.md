@@ -18,9 +18,7 @@ To begin using Lobster, you need to clone the repository, install its dependenci
 *  **[Official Lobster Repository](https://github.com/openclaw/lobster):** The main source code for the project.
 
   
-Run the following commands sequentially in your terminal:
-
-  
+Run the following commands sequentially in your terminal: 
 
 ```bash
 git  clone [https://github.com/openclaw/lobster](https://github.com/openclaw/lobster)
